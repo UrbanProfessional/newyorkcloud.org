@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body id="landingBody">
-    <h1>By New Yorkers. For New Yorkers</h1>
-    <p>No ads. No tracking. Just secure cloud storage.</p>
+    <h1>By New Yorkers. For New Yorkers.</h1>
+    <p>No ads. No tracking. Just local, affordable, and reliable cloud storage.</p>
 </body>
 </html>
